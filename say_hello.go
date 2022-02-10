@@ -15,3 +15,7 @@ func KalkulatorKurang(number1 int, number2 int) int {
 func KalkulatorBagi(number1 int, number2 int) int {
 	return number1 / number2
 }
+
+func Modulus(number1 int, number2 int) int {
+	return number1 % number2
+}
